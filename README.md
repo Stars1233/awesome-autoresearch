@@ -1,6 +1,6 @@
 # Awesome AutoResearch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of AutoResearch use cases **with optimization traces** and open source implementations. Every entry includes a link to the actual optimization trajectory — progress charts, commit histories, or dashboards — so you can see what the agent tried, not just the final result.
+A curated list of AutoResearch use cases **with optimization traces** and open source implementations. Every entry includes a link to the actual optimization trajectory (progress charts, commit histories, or dashboards) so you can see what the agent tried, not just the final result.
 
 ## What is AutoResearch?
 
