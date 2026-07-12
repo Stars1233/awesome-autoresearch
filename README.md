@@ -50,6 +50,8 @@ The specific `program.md` that ships with AutoResearch is written for one task: 
 | **auto-agent** | Autoresearch, but for AI agents. Given a golden dataset, it autonomously improves a target agent through an iterative hypothesis-driven loop: analyze failures, spawn a coding agent to implement fixes, evaluate, and accept or rollback | [GitHub](https://github.com/alfonsograziano/auto-agent) |
 | **CORAL** | Multi-agent autoresearch with shared evolution. Spawns parallel Claude Code agents in isolated git worktrees that share a hub of attempts, notes, and reusable skills. Each agent reads a task guide, commits changes, triggers eval-on-commit, and loops — with cross-agent knowledge sharing as the core mechanism for open-ended discovery | [GitHub](https://github.com/Human-Agent-Society/CORAL) · [Paper](https://arxiv.org/pdf/2604.01658) |
 | **evo** | A Claude Code plugin for autoresearch | [GitHub](https://github.com/evo-hq/evo) |
+| **Agon** | Omnidisciplinary research orchestrator built on six design principles for autonomous research. The cornerstone, Prompt Economy, treats prompt engineering as engineering rather than art and maximizes the ROI on every prompt by building reusable loops instead of one-off task prompts. Runs scientist/coder/auditor loops across 10+ disciplines instead of one optimization target | [GitHub](https://github.com/AutoResearch-Factory/Agon) · [Paper](https://arxiv.org/abs/2606.24177) |
+| **AutoNumerics** | Autonomous multi-agent pipeline that writes, debugs, and validates classical PDE numerical solvers from a plain-language problem description, picking the right numerical method automatically | [GitHub](https://github.com/Daviddjddu/Autonumerics) · [Paper](https://arxiv.org/abs/2602.17607) |
 
 ## Contributing
 
